@@ -1,9 +1,5 @@
-#**********************Python Mini Project***************************************
+#**********************Typing speed test***************************************
 '''Name: PARTH DANDE
-         ANMOL MAURYA
-         NAMRATA BISWAS
-
-        '''
 def resetfunction():
     global runonce,misswords,accuracy,score,timecounter,misswords,timecounter
     score = 0
